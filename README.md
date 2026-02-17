@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folekhali&label=Profile%20views&color=0e75b6&style=flat" alt="folekhali" /> </p>
 
-- 🔭 I’m currently studying on **Holberton!**
+- 🔭 I’m currently working on **Lexmax!**
 
 - 💡 I’m curious about **design and front-end**
 
